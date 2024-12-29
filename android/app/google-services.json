@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "53963137436",
+    "firebase_url": "https://lawmaster-a0a6c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lawmaster-a0a6c",
+    "storage_bucket": "lawmaster-a0a6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53963137436:android:4b5a900040f9da82dfa859",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj8b3ZirPf1r5LW1R3J_1ADtzZpgqj8F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
